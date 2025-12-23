@@ -1,0 +1,10 @@
+// src/main/ets/main/QueueError.ts
+export enum QueueError {
+  NO_CONNECTION = 'NO_CONNECTION',
+  INVALID_RESPONSE = 'INVALID_RESPONSE',
+  SSL_ERROR = 'SSL_ERROR',
+  QUEUEIT_UNAVAILABLE = 'QUEUEIT_UNAVAILABLE',
+  REQUEST_IN_PROGRESS = 'REQUEST_IN_PROGRESS',
+  API_ERROR = 'API_ERROR', // Generic API error
+  AAID_ERROR = 'AAID_ERROR' // Error getting device ID
+}

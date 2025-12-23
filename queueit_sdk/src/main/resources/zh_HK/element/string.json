@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "internet permission"
+    },
+    {
+      "name": "network_permission_reason",
+      "value": "network permission"
+    },
+    {
+      "name": "ok_button",
+      "value": "確定"
+    }
+  ]
+}

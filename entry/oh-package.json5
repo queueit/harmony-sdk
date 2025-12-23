@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "queueit-library": "file:../queueit_sdk/build/default/outputs/default/queueit_sdk.har"
+//    "queueit-library": "file:../queueit_sdk"
+  },
+}
+

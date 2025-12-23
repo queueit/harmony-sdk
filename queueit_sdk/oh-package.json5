@@ -1,0 +1,27 @@
+{
+  "name": "queueit-library",
+  "version": "1.0.0",
+  "description": "Queue-it SDK for HarmonyOS ArkTS/ArkUI",
+  "author": "Queue-it <devs@queue-it.com>",
+  "main": "src/main/ets/Index.ets",
+  "license": "MIT",
+  "repository": "https://github.com/queueit/harmony-sdk",
+  "type": "har",
+  "tags": [
+    "Queue-it",
+    "HarmonyOS",
+    "ArkTS",
+    "ArkUI",
+    "SDK",
+    "Waiting Room"
+  ],
+  "testRunner": {
+    "name": "hypium",
+    "version": "1.0.0"
+  },
+  "dependencies": {},
+  "apiVersion": {
+    "compatible": 12,
+    "target": 15
+  }
+}

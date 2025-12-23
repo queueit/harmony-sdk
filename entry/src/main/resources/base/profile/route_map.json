@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "DemoPage",
+      "pageSourceFile": "src/main/ets/pages/DemoPage.ets",
+      "buildFunction": "DemoPageBuilder",
+      "data": {
+        "description": "this is DemoPage"
+      }
+    },
+    {
+      "name": "DemoWithProtectedAPIPage",
+      "pageSourceFile": "src/main/ets/pages/DemoWithProtectedAPIPage.ets",
+      "buildFunction": "DemoWithProtectedAPIPageBuilder",
+      "data": {
+        "description": "this is DemoWithProtectedAPIPage"
+      }
+    },
+    {
+      "name": "ResultPage",
+      "pageSourceFile": "src/main/ets/pages/ResultPage.ets",
+      "buildFunction": "ResultPageBuilder",
+      "data": {
+        "description": "this is ResultPage"
+      }
+    }
+  ]
+}
